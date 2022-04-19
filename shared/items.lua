@@ -4167,6 +4167,6 @@ QBShared.Items = {
         ["unique"] = false,
         ["useable"] = false,
         ["shouldClose"] = false,
-        ["combinable"] = nil
+        ["combinable"] = true
     }
 }
